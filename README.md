@@ -3,4 +3,5 @@ Liste de fromages à pizza
 mozzarella
 parmesan
 emmental
-gorgonzola ...
+gorgonzola
+chevre
